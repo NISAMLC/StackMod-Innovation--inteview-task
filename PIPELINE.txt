@@ -1,0 +1,5 @@
+1 - Data reading and Loading
+2 - Data Preparation to feed into the deep learning algorithm
+3 - Building the model using ANN
+4 - Measuring the model performance
+5 - Saved and reloaded the model for further using  
